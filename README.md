@@ -63,13 +63,3 @@ Use the browser interface to:
 * Your OpenAI API key should have valid usage quota
 * You can stop the app anytime using `CTRL+C` in the terminal
 
----
-
-If you want, I can also generate:
-
-✅ A polished **project folder structure**
-✅ A **requirements.txt** file
-✅ **Badges** for GitHub (Python version, Streamlit, LangChain, License)
-✅ A **banner logo** for your repository
-
-Just tell me!
