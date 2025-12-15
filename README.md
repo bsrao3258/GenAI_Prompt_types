@@ -63,3 +63,5 @@ Use the browser interface to:
 * Your OpenAI API key should have valid usage quota
 * You can stop the app anytime using `CTRL+C` in the terminal
 
+<img width="1404" height="1059" alt="image" src="https://github.com/user-attachments/assets/7e327fad-d868-4bc1-aa00-92fd120f37e2" />
+
